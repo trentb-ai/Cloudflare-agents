@@ -1,7 +1,7 @@
 # AGENTS.md — docs/
 
 User-facing documentation for the Agents SDK. These markdown files are manually synced to [developers.cloudflare.com/agents/](https://developers.cloudflare.com/agents/).
-
+ 
 ## Diátaxis framework
 
 We follow [Diátaxis](https://diataxis.fr/) to keep docs focused. Every doc should have a clear primary type:
